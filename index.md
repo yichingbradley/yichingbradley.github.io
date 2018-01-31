@@ -3,9 +3,9 @@ layout: default
 ---
 
 # Yi-Ching Bradley
-2082 Euclid Avenue ♦ Charlotte, NC 28203
-(407) 927-4996 ♦ yiching.j.chen@gmail.com ♦
-US Permanent Resident 
+_2082 Euclid Avenue ♦ Charlotte, NC 28203_
+_(407) 927-4996_ ♦ [yiching.j.chen@gmail.com](mailto:yiching.j.chen@gmail.com) ♦
+**US Permanent Resident** 
 
 
 EXPERIENCE
