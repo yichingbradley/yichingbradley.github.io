@@ -15,6 +15,7 @@ layout: default
 * Coordinate and lead weekly team meetings with 1-10 field leaders & managers across IFS
 * Responsible for project management activities across multiple groups including developing & maintaining a project plan, implementing an effective adoption strategy, and measuring outcomes.
 * Responsible for the business continuity, planning, and reporting for the project or program.
+
 ## CAROLINAS HEALTHCARE SYSTEM                                                                                      
 **Student Intern** -- _Oct 2016 – Aug 2017_
 * Managing Med Admin compensation and Education registry using Office 365
@@ -24,11 +25,11 @@ layout: default
 * Research related to physician compensation plans to present to leadership
 * Assessment of the new physician compensation plan implementation
 * Assistance with infrastructure development regarding physician compensation implementation process
+
 ## Wingate University _2017_ 
 **Master of Business Administration**
 ## Embry-Riddle Aeronautical University _2012_             
 **B.S. in Business Administration & Management**							
-
 > Fluent in Mandarin, Taiwanese and English
 
 
