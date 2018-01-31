@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Resume
 ## ACCRUEPARTNERS 
 **Business Management Consultant at TIAA** -- _Aug 2017 – Present_
 * Help execute business initiatives, including working closely with the Emerging Segment Case 
