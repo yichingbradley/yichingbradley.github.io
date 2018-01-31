@@ -31,6 +31,6 @@ layout: default
 ### Embry-Riddle Aeronautical University _2012_             
 **B.S. in Business Administration & Management**							
 
-_Fluent in Mandarin, Taiwanese and English_
+> Fluent in Mandarin, Taiwanese and English
 
 
