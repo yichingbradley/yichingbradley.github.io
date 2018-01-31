@@ -5,10 +5,7 @@ layout: default
 # Yi-Ching Bradley
 > [yiching.j.chen@gmail.com](mailto:yiching.j.chen@gmail.com)
 
-## EXPERIENCE
-
 ### ACCRUEPARTNERS 
-
 **Business Management Consultant at TIAA** -- _Aug 2017 – Present_
 * Help execute business initiatives, including working closely with the Emerging Segment Case 
 * Manage team to develop, define, and execute processes for ensuring data integrity for an enterprise-wide migration of client data for over 10,000 plans
@@ -20,7 +17,6 @@ layout: default
 * Responsible for the business continuity, planning, and reporting for the project or program.
 
 ### CAROLINAS HEALTHCARE SYSTEM                                                                                      
-
 **Student Intern** -- _Oct 2016 – Aug 2017_
 * Managing Med Admin compensation and Education registry using Office 365
 * Communicate Med/Educ. projects progress with leadership with updates on individual physician compensation summaries via Microsoft SharePoint
@@ -30,16 +26,11 @@ layout: default
 * Assessment of the new physician compensation plan implementation
 * Assistance with infrastructure development regarding physician compensation implementation process
 
-## EDUCATION & PROFICIENCIES 
-
 ### Wingate University _2017_ 
 **Master of Business Administration**
-
 ### Embry-Riddle Aeronautical University _2012_             
 **B.S. in Business Administration & Management**							
 
-## Computer Proficiencies & Language Skills
-SQL, Office365, SharePoint, G Suite, Dreamweaver and WordPress. 
-Fluent in Mandarin, Taiwanese and English
+_Fluent in Mandarin, Taiwanese and English_
 
 
