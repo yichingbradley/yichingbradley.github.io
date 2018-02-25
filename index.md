@@ -27,7 +27,8 @@ layout: default
 **Master of Business Administration**
 ## Embry-Riddle Aeronautical University _2012_             
 **B.S. in Business Administration & Management**
-## Proficient in SQL, Excel, Word, PowerPoint, Access
-> Fluent in Mandarin, Taiwanese and English
+
+> Proficient in SQL, Excel, Word, PowerPoint, Access
+> Fluent in Mandarin, Taiwanese and English 
 
 
