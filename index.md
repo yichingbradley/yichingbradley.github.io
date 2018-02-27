@@ -11,7 +11,7 @@ layout: default
 * Drive select strategic initiatives and ensure execution by relevant business partners
 * Review & analyze data for over 10,000 clients
 * Coordinate and lead weekly team meetings with 1-10 field leaders & managers across IFS
-* Responsible for project management activities across multiple groups including developing & maintaining a project plan, implementing an effective adoption strategy, and measuring outcomes.
+* Responsible for project management activities across multiple groups including developing & maintaining a project plan, implementing an effective adoption strategy, and measuring outcomes
 * Responsible for the business continuity, planning, and reporting for the project or program
 
 ## CAROLINAS HEALTHCARE SYSTEM                                                                                      
