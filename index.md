@@ -6,6 +6,7 @@ layout: default
 **Business Management Consultant at TIAA** -- _Aug 2017 – Present_
 * Help execute business initiatives, including working closely with the Emerging Segment Case 
 * Use query tools and advanced excel functions to automate, analyze, and coalesce relevant data
+* Utilize and create SharePoint sites to better track project status
 * Manage team to develop, define, and execute processes for ensuring data integrity for an enterprise-wide migration of client data for over 10,000 plans
 * Create, maintain and implement strategic plans for IFS Emerging Segment to ensure business meets and exceeds relevant goals. Track and update strategic long-range and short term tactical plans to support IAS objectives in a forward-thinking manner
 * Drive select strategic initiatives and ensure execution by relevant business partners
