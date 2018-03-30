@@ -2,7 +2,7 @@
 layout: default
 ---
 # Resume
-## SYNERGY COVERAGE SOLUTION 
+## SYNERGY COVERAGE SOLUTIONS 
 **Business & Regulatory Analyst** -- _Mar 2018 – Present_
 * Oversee, prepare and monitor rate and form filings for all carrier partnerships with SCS, working with the Department of Insurance for compliance and approval.
 * Analyze statutory and legal changes to determine impact and implement policy changes needed to SCS compliance procedures
