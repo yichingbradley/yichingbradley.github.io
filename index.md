@@ -2,8 +2,24 @@
 layout: default
 ---
 # Resume
+## SYNERGY COVERAGE SOLUTION 
+**Business & Regulatory Analyst** -- _Mar 2018 – Present_
+* Oversee, prepare and monitor rate and form filings for all carrier partnerships with SCS, working with the Department of Insurance for compliance and approval.
+* Analyze statutory and legal changes to determine impact and implement policy changes needed to SCS compliance procedures
+* Monitor bulletins and circulars from NCCI and determine product impact
+* Participate in development of new products and coverages to help determine policy language as it pertains to these
+* Review premium and loss data to identify trends
+* Work with Business Intelligence Systems to develop reports for Underwriting management and department staff
+* Monitor, track and maintain DOI compliance by appointing producer appointments and active licensures 
+* Monitor, track and maintain licensing held by Underwriting and/or Marketing department
+* Ensure all agencies are compliant with SCS E&O coverage rules
+* Negotiate regulatory approval for new products and provide company instructions for product use
+* Develop and maintain SCS documentation for forms, rates and rules
+* Regularly review internal premium and loss data to identify trends
+* Develop reports relevant to the underwriting team through utilizing the Business Intelligence Technology
+
 ## ACCRUEPARTNERS 
-**Business Management Consultant at TIAA** -- _Aug 2017 – Present_
+**Business Management Consultant at TIAA** -- _Aug 2017 – Mar 2018_
 * Help execute business initiatives, including working closely with the Emerging Segment Case 
 * Use query tools and advanced excel functions to automate, analyze, and coalesce relevant data
 * Utilize and create SharePoint sites to better track project status
