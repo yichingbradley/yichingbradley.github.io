@@ -4,14 +4,13 @@ layout: default
 # Resume
 ## SYNERGY COVERAGE SOLUTIONS 
 **Business & Regulatory Analyst** -- _Mar 2018 – Present_
-* Oversee, prepare and monitor rate and form filings for all carrier partnerships with SCS, working with the Department of Insurance for compliance and approval.
+* Develop client-facing cloud mobile application with Microsoft PowerApp 
+* Work with department lead to determine business requirements and process flow for the application 
+* Design layout for input and content, optimize workflow based on user needs
 * Analyze statutory and legal changes to determine impact and implement policy changes needed to SCS compliance procedures
-* Monitor bulletins and circulars from NCCI and determine product impact
 * Participate in development of new products and coverages to help determine policy language as it pertains to these
 * Review premium and loss data to identify trends
 * Work with Business Intelligence Systems to develop reports for Underwriting management and department staff
-* Monitor, track and maintain DOI compliance by appointing producer appointments and active licensures 
-* Monitor, track and maintain licensing held by Underwriting and/or Marketing department
 * Ensure all agencies are compliant with SCS E&O coverage rules
 * Negotiate regulatory approval for new products and provide company instructions for product use
 * Develop and maintain SCS documentation for forms, rates and rules
@@ -46,6 +45,6 @@ layout: default
 ## Embry-Riddle Aeronautical University _2012_             
 **B.S. in Business Administration & Management**
 
-_Proficient in SQL, Excel, Word, PowerPoint, Access_ | _Fluent in Mandarin, Taiwanese and English_ 
+_Proficient in PowerApp, SQL, Excel, Word, PowerPoint, Access_ | _Fluent in Mandarin, Taiwanese and English_ 
 
 
