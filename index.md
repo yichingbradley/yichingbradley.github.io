@@ -3,7 +3,7 @@ layout: default
 ---
 # Resume
 ## SYNERGY COVERAGE SOLUTIONS 
-**Business & Regulatory Analyst** -- _Mar 2018 – Present_
+**Business & Regulatory Analyst** -- _Mar 2018 – Jan 2019_
 * Develop client-facing cloud mobile application with Microsoft PowerApp 
 * Work with department lead to determine business requirements and process flow for the application 
 * Design layout for input and content, optimize workflow based on user needs
