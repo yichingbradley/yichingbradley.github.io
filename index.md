@@ -2,7 +2,7 @@
 layout: default
 ---
 # Resume
-## Rent Ready
+## RENT READY
 **IT Business Analyst** -- _May 2019 - Present_
 * Provide exceptional Tier 1 production support to internal team members
 * Work with internal business partners to validate and ensure data integrity on an ongoing basis
