@@ -10,7 +10,7 @@ layout: default
 * Build detailed support and functional documentation of internal software tools and business processes
 * Provide internal system testing, while coordinating and supporting end user acceptance testing and training
 * Assist in platform deployments
-*Work with a small technology team in a fast paced, and often ambiguous environment where all solutions are on the table and creativity is encouraged and rewarded
+* Work with a small technology team in a fast paced, and often ambiguous environment where all solutions are on the table and creativity is encouraged and rewarded
 
 ## SYNERGY COVERAGE SOLUTIONS 
 **Business & Regulatory Analyst** -- _Mar 2018 – Jan 2019_
