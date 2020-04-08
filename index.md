@@ -3,7 +3,7 @@ layout: default
 ---
 # Resume
 ## RENT READY
-**IT Business Analyst** -- _May 2019 - Present_
+**IT Business Analyst** -- _May 2019 - April 2020_
 • Acted as project manager, designer, tester and developer for mobile application using PowerApps.
 • Gathered feedback through user interviews and optimized application flow in response
 • Used Microsoft Flow to automate mobile notifications
