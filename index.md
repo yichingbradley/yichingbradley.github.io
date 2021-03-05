@@ -4,17 +4,17 @@ layout: default
 # Resume
 ## RENT READY
 **IT Business Analyst** -- _May 2019 - Present_
-• Acted as project manager, designer, tester and developer for mobile application using PowerApps.
-• Gathered feedback through user interviews and optimized application flow in response
-• Used Microsoft Flow to automate mobile notifications
-• Updated SharePoint pages and forms
-• Work with internal business partners to validate and ensure data integrity on an ongoing basis in Dynamics 365
-• Participate and conduct company change management meetings to  
-• Observed associates day-to-day operations and proposed potential process improvements
+• Build custom configuration in Microsoft Dynamics CRM field service and sales application 
+• Providing day-to-day functional application support for internal business partners
+• Act as project manager, designer, tester and developer for mobile application using PowerApps.
+• Create and manage several external and internal PowerApps 
+• Gather feedback through user interviews and optimized application flow in response
+• Create and manage Microsoft Flow to automate business process flow and mobile notifications
 • Build detailed support and functional documentation of internal software tools and business processes
 • Provide internal system testing, while coordinating and supporting end user acceptance testing and training
 • Assist in platform deployments 
-• Provide exceptional Tier 1 production support to internal team members
+• Updated SharePoint pages and forms
+• Work with internal business partners to validate and ensure data integrity on an ongoing basis in Dynamics 365
 
 ## SYNERGY COVERAGE SOLUTIONS 
 **Business & Regulatory Analyst** -- _Mar 2018 – Jan 2019_
