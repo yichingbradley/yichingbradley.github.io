@@ -7,6 +7,7 @@ layout: default
 
 • Build custom configuration in Microsoft Dynamics CRM field service and sales application 
 • Providing day-to-day functional application support for internal business partners
+• Work with development team to write requirements and test cases
 • Act as project manager, designer, tester and developer for mobile application using PowerApps.
 • Create and manage several external and internal PowerApps 
 • Gather feedback through user interviews and optimized application flow in response
