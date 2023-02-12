@@ -5,11 +5,12 @@ layout: default
 ## PROTECTIVE LIFE
 **Systems Analyst** -- _Jan 2022 - Present_
 
-• Thoroughly understand Microsoft Dynamics 365 CRM and the capabilities it provides
+• Build custom configuration in Microsoft Dynamics Online CRM for customer center applications 
+• Assist in platform development 
 • Lead coordination with customers to elicit and translate business needs into detailed functional requirements
-• Develop a trusting relationship with customers in order to better support the business area on enhancement requests and system-related issues
+• Assist with functional design and configuration of technical processes, and workflow processes within D365
 • Collaborate with development team to design and transition functional requirements into technical solution
-• Continuously explore new technologies to further facilitate discussions on how they could be used to make our processes more efficient
+• Continuously explore new technologies to further facilitate discussions on how they could be used to make processes more efficient
 • Test user stories and ensure all acceptance criteria is met
 • Work within an agile environment following sprint commitments and release schedules
 
